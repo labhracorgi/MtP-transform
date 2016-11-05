@@ -9,5 +9,5 @@ The exact formula specification is also provided.
 
 See the ____ for the exact details about how it works.
 
-The general implementation was inspired by Martin Zuba's example linked in the following Google groups thread:
+The general implementation was inspired by the example Martin Zuba provided in the following Google groups thread:
 https://groups.google.com/forum/#!topic/r-inla-discussion-group/Pjqm_tcA1Lg
