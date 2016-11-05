@@ -1,4 +1,4 @@
-# MtP-transform
+# Multinomial-to-Poisson-transform
 
 This repository contains a general implementation of "Multinomial to poisson" transformation.
 The transformation's intended usage is to transform a dataframe such that the transformed data can be used to perform multinomial regression through the method Integrated Nested Laplace Approximation (INLA).
